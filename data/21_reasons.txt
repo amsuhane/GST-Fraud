@@ -1,0 +1,21 @@
+A supplier supplies goods or services without any proper invoice or has issued a false invoice.
+He affects the issuance of an invoice without supplying the goods or services as per provisions of GST.
+He uses the GSTIN of any other person instead of his own.
+He submits false information during registration.
+He gives wrong information while filing returns or files false returns.
+He gives wrong information or false information during assessment proceedings.
+He fails to submit GST with the Government that was deducted by him, within a period of 3 months from the date of such deduction.
+If TDS is deducted in contravention of provisions of GST, he is still liable to pay the same within three months from the date of such deduction. If such falsely deducted TDS is not submitted within the prescribed time, then it is an offense.
+He claims and obtains a refund of CGST or SGST by fraud.
+He claims Input Tax Credit without the actual receipt of goods or services.
+He understates his sales during the period to evade tax.
+He transports or effects movement of goods without proper documentation.
+He supplies goods that will be confiscated by law.
+He destroys or tampers with, the goods that have been confiscated.
+He does not register himself even though he is liable to do so.
+He does not deduct TDS wherever applicable or deducts lesser than prescribed amount.
+He does not collect TCS wherever applicable or collects lesser than prescribed amount.
+He does not distribute credit properly or distribute against the provisions of law being an Input Service Distributor.
+He obstructs the officer in the performance of his duties.
+He does not maintain proper books of accounts as required mandatorily by law
+He intentionally destroys any evidence.

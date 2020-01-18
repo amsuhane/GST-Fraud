@@ -1,0 +1,8 @@
+google
+google-search
+janome==0.3.10
+networkx==2.4
+matplotlib==3.1.2
+sacremoses==0.0.38
+stanfordnlp-0.2.0
+gensim==3.8.1

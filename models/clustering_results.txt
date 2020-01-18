@@ -1,0 +1,48 @@
+Practical_Challenges_to_GST
+	corpus
+		0 ['train', 'program', 'learn', 'onlin', 'use', 'cours', 'assign', 'develop', 'student', 'job', 'practic', 'challeng', 'provid', 'expert', 'languag', 'help', 'best', 'profession', 'avail']
+		1 ['exam', 'question', 'use', 'account', 'practic', 'test', 'book', 'compani', 'payrol', 'reconcili', 'code', 'provid', 'interview', 'help', 'includ', 'student', 'process', 'calcul', 'year']
+		2 ['ani', 'servic', 'world', 'shui', 'use', 'global', 'year', 'invest', 'provid', 'fiscal', 'demand', 'help', 'peopl', 'feng', 'firm', 'work', 'support', 'like', 'profession']
+		3 ['tax', 'busi', 'rate', 'servic', 'state', 'credit', 'return', 'good', 'govern', 'would', 'implement', 'file', 'system', 'also', 'invoic', 'issu', 'need', 'suppli', 'one', 'regim']
+		4 ['job', 'sprayer', 'time', 'spray', 'part', 'use', 'fresher', 'rang', 'tank', 'memori', 'pump', 'base', 'equip', 'design', 'onlin', 'work', 'avail', 'best', 'get']
+
+
+	corpus_summary_
+		0 ['reconcili', 'intercompani', 'massiv', 'excel', 'mimo', 'pm', 'need', 'templat', 'code', 'good', 'matlab', 'audio', 'file', 'use', 'support', 'transact', 'match', 'view', 'enabl', 'unmatch']
+		1 ['tax', 'servic', 'credit', 'busi', 'rate', 'one', 'file', 'good', 'input', 'state', 'return', 'indirect', 'regim', 'pay', 'report', 'also', 'provid', 'benefit', 'reform', 'requir']
+		2 ['system', 'memori', 'time', 'return', 'new', 'result', 'fee', 'busi', 'secur', 'reflect', 'bill', 'compani', 'befor', 'invoic', 'would', 'job', 'softwar', 'limit', 'vasai', 'privat']
+		3 ['implement', 'challeng', 'practic', 'provid', 'busi', 'issu', 'law', 'math', 'face', 'transit', 'year', 'use', 'lakh', 'crore', 'collect', 'ani', 'new', 'mani', 'organ', 'right']
+		4 ['question', 'interview', 'code', 'answer', 'file', 'tax', 'java', 'busi', 'train', 'program', 'softwar', 'account', 'call', 'return', 'book', 'test', 'profession', 'client', 'various', 'govern']
+
+
+GST Fraud
+	corpus
+		0 ['tax', 'would', 'state', 'revenu', 'servic', 'govern', 'good', 'major', 'one', 'implement', 'levi', 'addit', 'ensur', 'pass', 'rate', 'system', 'go', 'base', 'limit', 'year']
+		1 ['invoic', 'tax', 'reflect', 'avail', 'supplier', 'credit', 'upload', 'onli', 'elig', 'restrict', 'period', 'would', 'limit', 'return', 'implement', 'month', 'provision', 'amount', 'suppli', 'sub-rul']
+		2 ['ani', 'articl', "n't", 'opinion', 'express', 'inform', 'affect', 'offici', 'posit', 'advic', 'agenc', 'educ', 'organ', 'polici', 'constitut', 'profession', 'purpos', 'provid', 'compani', 'onli']
+		3 ['tax', 'busi', 'need', 'state', 'challeng', 'rate', 'file', 'invoic', 'credit', 'return', 'servic', 'complianc', 'regim', 'requir', 'system', 'still', 'month', 'collect', 'input', 'year']
+		4 ['tax', 'bill', 'file', 'return', 'taxpay', 'busi', 'product', 'compani', 'make', 'issu', 'must', 'well', 'claim', 'rate', 'revenu', 'note', 'like', 'major', 'month', 'e-way']
+
+	corpus_summary
+		0 ['busi', 'tax', 'profession', 'softwar', 'ani', 'ensur', 'client', 'present', 'need', 'grow', 'provis', 'various', 'still', 'call', 'financ', 'migrat', 'industri', 'joint', 'list', 'multipl']
+		1 ['may', 'inform', 'would', 'made', 'public', 'implement', 'happen', 'servic', 'get', 'suppli', 'comparison', 'anoth', '122nd', 'prospect', 'higher', '19th', 'introduc', 'key', 'herculean', 'challeng']
+		2 ['reflect', 'limit', 'invoic', 'elig', 'calcul', 'total', 'avail', 'onli', 'time', 'system', 'credit', 'revers', 'till', 'cumul', 'upload', 'pertain', 'non-upload', 'end', 'provision', 'befor']
+		3 ['tax', 'one', 'servic', 'good', 'levi', 'state', 'level', 'bill', 'compani', 'indirect', 'transport', 'manufactur', 'structur', 'elimin', 'reduc', 'sale', 'consumpt', 'centr', 'two', 'law']
+		4 ['crore', 'file', 'tax', 'lakh', 'return', 'taxpay', 'revenu', 'came', 'refund', 'rate', 'result', 'regist', 'reduct', 'quick', 'psycholog', 'overvalu', 'notch', 'month', 'mark', 'fraud']
+
+
+SOLUTION
+
+corpus_summary_
+	0 ['reconcili', 'intercompani', 'massiv', 'excel', 'mimo', 'pm', 'need', 'templat', 'code', 'good', 'matlab', 'audio', 'file', 'use', 'support', 'transact', 'match', 'view', 'enabl', 'unmatch']
+	1 ['tax', 'servic', 'credit', 'busi', 'rate', 'one', 'file', 'good', 'input', 'state', 'return', 'indirect', 'regim', 'pay', 'report', 'also', 'provid', 'benefit', 'reform', 'requir']
+	2 ['return', 'fee', 'busi', 'secur', 'reflect', 'bill', 'compani', 'befor', 'invoic', 'would', 'job', 'softwar', 'limit', 'vasai', 'privat']
+	3 ['implement', 'challeng', 'practic', 'provid', 'busi', 'issu', 'law', 'math', 'face', 'transit', 'year', 'use', 'lakh', 'crore', 'collect', 'ani', 'new', 'mani', 'organ', 'right']
+	4 ['question', 'interview', 'code', 'answer', 'file', 'tax', 'java', 'busi', 'train', 'program', 'softwar', 'account', 'call', 'return', 'book', 'test', 'profession', 'client', 'various', 'govern']
+
+
+	0 ['awareness','rule','tax','advetis','govern','telev']
+	1 ['tech','business','savy','solution','tax']
+	2 ['invoice', 'digitize', 'standarisation', 'tracking', 'codes']
+	3 ['cash','less','deal','corruption','limit','set']
+	4 [real time approval of the bills in a portal and not submitting the bills at the end]
